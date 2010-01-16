@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messageBundle>
+  <msg name="hello_world">Hello world!</msg>
+  <msg name="hello_user_to_place">Hello {0}, welcome to {1}</msg>
+</messageBundle>
